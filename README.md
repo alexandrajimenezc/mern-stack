@@ -1,5 +1,5 @@
 # MERN-stack
-Puedes crear usuarios , borrar usuarios , crear notas , editar notas, borrar notas , ver todas las notas!, Este proyecto de prueba usa diversar tecnologia: en el front usa React ,y el back hace uso de nodejs y express;  sigue el patron MVC , donde las vistas serian las Rutas, por ultimo tiene un CRUD de notas.
+Puedes crear usuarios , borrar usuarios , crear notas , editar notas, borrar notas , ver todas las notas!, Este proyecto de prueba usa diversas tecnologia: en el front usa React ,y el back hace uso de nodejs y express;  sigue el patron MVC , donde las vistas serian las Rutas, por ultimo tiene un CRUD de notas.
 
 
  _Notas editable , CRUD_
@@ -9,13 +9,13 @@ _Clona o Descarga este repositorio._
  
 
 ### Pre-requisitos :
-_
+
 1.Tener un browser(Chrome)  
 2.TENER INSTALADO Mongodb  
 3.TENER INSTALADO Nodejs  
 4.TENER INSTALADO UN EDITOR DE CODIGO  
 5.TENER CONOCIMIENTO BÁSICO DE LA TERMINAL  
-_
+
 
 
 #### Ejemplo:
